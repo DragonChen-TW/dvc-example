@@ -1,3 +1,8 @@
+# png
+acc.png
+loss.png
+plot.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -136,3 +141,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/ckpts
+/data

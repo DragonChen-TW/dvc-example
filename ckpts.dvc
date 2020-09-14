@@ -1,0 +1,3 @@
+outs:
+- md5: 9b345a3e992f7b31630722a4714e66fe.dir
+  path: ckpts
